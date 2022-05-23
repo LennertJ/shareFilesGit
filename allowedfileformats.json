@@ -1,0 +1,4 @@
+{
+    "VIDEOFORMATS" : ["MP4","MOV","WEBM"],
+    "IMAGEFORMATS" : ["JPG","PNG","GIF","WEBP","JPEG","SVG"]
+}
